@@ -1,0 +1,24 @@
+{
+  "name": "Marvsify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbmarvin24/marvsify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbmarvin24/marvsify/issues"
+  },
+  "homepage": "https://github.com/jbmarvin24/marvsify#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
