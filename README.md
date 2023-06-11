@@ -1,4 +1,4 @@
-# My Responsive Cloud Hosting Platform
+# Marvsify
 
 This is a responsive website that I built as part of the "The Ultimate HTML5 & CSS3 Series" course by Mosh Hamedani from CodeWithMosh.
 Check out the live version of the website: [Marvsify](https://marvsify.netlify.app/)
